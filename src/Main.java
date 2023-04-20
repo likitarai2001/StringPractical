@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         String str1 = " Simform ";
 
-        StringBuilder str2 = new StringBuilder(" The quick"); //The quick brown fox jumps over the lazy dog
+        StringBuilder str2 = new StringBuilder(" The quick");
         str2.append(" brown")
                 .append(" fox jumps")
                 .append(" over the")
